@@ -10,7 +10,7 @@ results.
 - Week 1 - Ideation and Initial Documentation
 - Week 2 - Backend Development
 - Week 3 - Frontend Development
-- Week 4 - Final Touches, Integration and Completion
+- Week 4 - Final Touches, Integration and Deployment
 
 
 ## Tech Stack
