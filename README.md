@@ -1,5 +1,5 @@
 
-# <img src ="https://github.com/abhishekg495/RecommenderSystem/blob/master/Posters/favicon.png?raw=true" width=30px> Rec-It Ralph
+# <img src ="https://github.com/NamanJain-17/Project-Machine-Learning/blob/master/Posters/favicon.png" width=30px> Rec-It Ralph
 
 A one-stop shop for movie recommendation, 
 integrating multiple recommendation algorithms 
@@ -72,15 +72,15 @@ results.
 ## Screenshots
 
 #### Sort by Ratings/Popularity (and choose genres)
-![App Screenshot 1](https://github.com/abhishekg495/RecommenderSystem/blob/master/Screenshots/1.png?raw=true)
+![App Screenshot 1](https://github.com/NamanJain-17/Project-Machine-Learning/blob/master/Screenshots/1.png)
 
 #### Search for a movie based on its content
-![App Screenshot 2](https://github.com/abhishekg495/RecommenderSystem/blob/master/Screenshots/2.png?raw=true)
+![App Screenshot 2](https://github.com/NamanJain-17/Project-Machine-Learning/blob/master/Screenshots/2.png)
 
-![App Screenshot 3](https://github.com/abhishekg495/RecommenderSystem/blob/master/Screenshots/3.png?raw=true)
+![App Screenshot 3](https://github.com/NamanJain-17/Project-Machine-Learning/blob/master/Screenshots/3.png)
 
 #### Get personalised recommendations based on your own ratings
-![App Screenshot 4](https://github.com/abhishekg495/RecommenderSystem/blob/master/Screenshots/4.png?raw=true)
+![App Screenshot 4](https://github.com/NamanJain-17/Project-Machine-Learning/blob/master/Screenshots/4.png)
 
 ## Lessons Learned
 
