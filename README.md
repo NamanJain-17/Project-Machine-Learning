@@ -1,5 +1,5 @@
 
-# <img src ="https://github.com/abhishekg495/RecommenderSystem/blob/master/Posters/favicon.png?raw=true" width=30px> [Rec-It Ralph]
+# <img src ="https://github.com/abhishekg495/RecommenderSystem/blob/master/Posters/favicon.png?raw=true" width=30px> Rec-It Ralph
 
 A one-stop shop for movie recommendation, 
 integrating multiple recommendation algorithms 
