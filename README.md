@@ -1,5 +1,5 @@
 
-# <img src ="https://github.com/abhishekg495/RecommenderSystem/blob/master/Posters/favicon.png?raw=true" width=30px> [Rec-It Ralph](https://share.streamlit.io/abhishekg495/recommendersystem/main.py)
+# <img src ="https://github.com/abhishekg495/RecommenderSystem/blob/master/Posters/favicon.png?raw=true" width=30px> [Rec-It Ralph]
 
 A one-stop shop for movie recommendation, 
 integrating multiple recommendation algorithms 
@@ -18,34 +18,6 @@ results.
 **Client:** Streamlit
 
 **Server:** Numpy, Pandas, Scikit-Learn
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone git@github.com:abhishekg495/RecommenderSystem.git
-```
-
-Go to the project directory
-
-```bash
-  cd RecommenderSystem
-```
-
-Install dependencies
-
-```bash
-  pip install -r requirements.txt
-```
-
-Start the server
-
-```bash
-  streamlit run main.py
-```
-
 
 
 ## Folder Structure
@@ -97,12 +69,6 @@ Start the server
 - Add movies to your watchlist
 - Accurate recommendations
 
-
-## Demo
-
-#### [Click here for the video demo](https://drive.google.com/file/d/12PXyHQ6lLVX45cxmZLl-42jd8pXvV2dh/view?usp=sharing)
-
-
 ## Screenshots
 
 #### Sort by Ratings/Popularity (and choose genres)
@@ -126,9 +92,3 @@ The third feature was implemented in the form of personalised recommendations ba
 
 Last but not the least, a major part of the development cycle was spent in making the app more user friendly in general and in using several **optimisation techniques like caching** to make the experience smoother for the user.
 **Web scraping** also played a major role as gathering accurate data was a much more crucial and tedious task as compared to implementing ML models based on that data.
-
-## Feedback
-
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-099288175/)
-
-Looking forward to hearing from you :D
